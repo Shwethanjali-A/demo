@@ -1,6 +1,6 @@
 class Student {
     int id = 101;
-    String name = "Rahul";
+    String name = "Ramitha";
 
     void display() {
         System.out.println(id);
